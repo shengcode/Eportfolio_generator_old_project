@@ -1,0 +1,21 @@
+
+{
+    "title":"what's title",
+    "slides":[
+        {
+            "image_file_name":"CapeSpearNewfoundland.jpg",
+            "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\SlideshowMaker\\images\\slide_show_images\\",
+            "caption":"caption1"
+        },
+        {
+            "image_file_name":"SaltUtah.jpg",
+            "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\SlideshowMaker\\images\\slide_show_images\\",
+            "caption":"caption2"
+        },
+        {
+            "image_file_name":"ToadstoolNebraska.jpg",
+            "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\SlideshowMaker\\images\\slide_show_images\\",
+            "caption":"caption3"
+        }
+    ]
+}

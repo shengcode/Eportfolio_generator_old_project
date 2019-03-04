@@ -1,0 +1,21 @@
+
+{
+    "title":"t1",
+    "slides":[
+        {
+            "image_file_name":"CapeSpearNewfoundland.jpg",
+            "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\SlideshowMaker\\images\\slide_show_images\\",
+            "caption":"c1"
+        },
+        {
+            "image_file_name":"CarhengeNebraska.jpg",
+            "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\SlideshowMaker\\images\\slide_show_images\\",
+            "caption":"c2"
+        },
+        {
+            "image_file_name":"GrosMorneNewfoundland.jpg",
+            "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\SlideshowMaker\\images\\slide_show_images\\",
+            "caption":"c3"
+        }
+    ]
+}

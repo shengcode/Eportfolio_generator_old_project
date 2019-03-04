@@ -1,0 +1,28 @@
+body{
+    
+    background-color: aqua;
+    font-weight: bold;
+}
+.nav{
+    
+    
+    background-color: red;
+    }
+
+.nav ul li{
+   
+    background-color: green;
+}
+
+   .banner{
+       background-color: yellow;
+       
+   }
+   
+   #paragraph1{
+      
+       background-color: red;
+   }
+   #myHeader{
+      
+   }

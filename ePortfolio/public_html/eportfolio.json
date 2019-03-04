@@ -1,0 +1,657 @@
+{
+    "studentName":"Taylor Swift",
+        "pages":[
+        {    
+            "layout_tempplate":"layout1",
+            "color_template":"color1",
+            "Banner_Image":"banner1.jpg",
+            "page_title":"my eportfolio",
+            "page_footer":"just do it",
+
+            "textComponents":[
+            {
+                "text_content":"this is the first text: Taylor Alison Swift (born December 13, 1989) is an American singer-songwriter and actress. Raised in Wyomissing, Pennsylvania",
+                "text_font":"Arial",
+                "text_font_size":"12px" ,
+                "hyperlinkers":[{
+                    "begin":12,
+                    "end":17,
+                    "textLink": "http://www.w3schools.com/json/json_eval.asp"			
+                },
+                {
+                    "begin":1,
+                    "end":4,
+                    "textLink": "http://www.w3schools.com/jsref/met_win_setinterval.asp"		
+
+                }	
+
+                ]
+            },
+
+            {
+                "text_content":"this is the second text: Swift is known for narrative songs about her personal experiences. As a songwriter, she has been honored by the Nashville Songwriters Association and the Songwriters Hall of Fame.",
+                "text_font":"Arial",
+                "text_font_size":"12px",			
+                "hyperlinkers":[{
+                    "begin":0,
+                    "end":4,
+                    "textLink": "http://www.npr.org/sections/krulwich/2014/05/25/315259156/a-young-woman-falls-in-love-with-everything"
+                },
+                {
+                    "begin":8,
+                    "end":12,
+                    "textLink": "http://spacetelescope.github.io/understanding-json-schema/reference/numeric.html"  
+                },
+                {
+
+                    "begin":17,
+                    "end":25,
+                    "textLink": "http://spacetelescope.github.io/understanding-json-schema/reference/numeric.html"  
+                }  
+                ]
+
+            }
+
+            ],
+
+            "imageComponents":[{
+                "image_file_name":"banner1.jpg",
+                "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\ePortfolio\\public_html\\img\\"	  
+            },
+            {
+                "image_file_name":"banner2.jpg",
+                "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\ePortfolio\\public_html\\img\\" 
+
+            }
+
+            ],
+
+            "videoComponents":[
+            {
+                "video_file_name":"myVideo1.mp4",
+                "video_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\ePortfolio\\public_html\\video\\" 
+            },
+            {
+                "video_file_name":"myVideo2.mp4",
+                "video_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\ePortfolio\\public_html\\video\\"		
+            }
+
+            ],
+
+            "textHyperLinkerComponents":[{
+                "text_to_hyperLInker":"the first",
+                "hyper_linker": "http://www.marketwatch.com/story/how-katy-perry-roars-past-taylor-swift-financially-2015-11-06"	
+            },
+            {
+                "text_to_hyperLInker":"text",
+                "hyper_linker": "http://hipstertaylorswift.com/"	
+            }	
+            ],
+            "slideShowComponents":[
+            {
+                "title":"myFirstTest",
+                "slides":[
+                {
+                    "image_file_name":"ArchesUtah.jpg",
+                    "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\ePortfolio\\public_html\\img\\",
+                    "caption":"caption1"
+                },
+                {
+                    "image_file_name":"CarhengeNebraska.jpg",
+                    "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\ePortfolio\\public_html\\img\\",
+                    "caption":"caption2"
+                },
+                {
+                    "image_file_name":"DefaultStartSlide.png",
+                    "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\ePortfolio\\public_html\\img\\",
+                    "caption":"ENTER CAPTION"
+                }
+                ]
+            },
+            {
+                "title":"mySecondTest",
+                "slides":[
+                {
+                    "image_file_name":"banner3.jpg",
+                    "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\ePortfolio\\public_html\\img\\",
+                    "caption":"captionA"
+                },
+                {
+                    "image_file_name":"coffe_wine.jpg",
+                    "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\ePortfolio\\public_html\\img\\",
+                    "caption":"captionB"
+                },
+                {
+                    "image_file_name":"DefaultStartSlide.png",
+                    "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\ePortfolio\\public_html\\img\\",
+                    "caption":"ENTER CAPTION"
+                }
+                ]
+            }
+            ]
+
+
+        }
+    ,
+
+        {    
+            "layout_tempplate":"layout1",
+            "color_template":"color1",
+            "Banner_Image":"banner1.jpg",
+            "page_title":"my eportfolio",
+            "page_footer":"just do it",
+
+            "textComponents":[
+            {
+                "text_content":"this is the first text: Taylor Alison Swift (born December 13, 1989) is an American singer-songwriter and actress. Raised in Wyomissing, Pennsylvania",
+                "text_font":"Arial",
+                "text_font_size":"12px" ,
+                "hyperlinkers":[{
+                    "begin":12,
+                    "end":17,
+                    "textLink": "http://www.w3schools.com/json/json_eval.asp"			
+                },
+                {
+                    "begin":1,
+                    "end":4,
+                    "textLink": "http://www.w3schools.com/jsref/met_win_setinterval.asp"		
+
+                }	
+
+                ]
+            },
+
+            {
+                "text_content":"this is the second text: Swift is known for narrative songs about her personal experiences. As a songwriter, she has been honored by the Nashville Songwriters Association and the Songwriters Hall of Fame.",
+                "text_font":"Arial",
+                "text_font_size":"12px",			
+                "hyperlinkers":[{
+                    "begin":0,
+                    "end":4,
+                    "textLink": "http://www.npr.org/sections/krulwich/2014/05/25/315259156/a-young-woman-falls-in-love-with-everything"
+                },
+                {
+                    "begin":8,
+                    "end":12,
+                    "textLink": "http://spacetelescope.github.io/understanding-json-schema/reference/numeric.html"  
+                },
+                {
+
+                    "begin":17,
+                    "end":25,
+                    "textLink": "http://spacetelescope.github.io/understanding-json-schema/reference/numeric.html"  
+                }  
+                ]
+
+            }
+
+            ],
+
+            "imageComponents":[{
+                "image_file_name":"banner1.jpg",
+                "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\ePortfolio\\public_html\\img\\"	  
+            },
+            {
+                "image_file_name":"banner2.jpg",
+                "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\ePortfolio\\public_html\\img\\" 
+
+            }
+
+            ],
+
+            "videoComponents":[
+            {
+                "video_file_name":"myVideo1.mp4",
+                "video_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\ePortfolio\\public_html\\video\\" 
+            },
+            {
+                "video_file_name":"myVideo2.mp4",
+                "video_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\ePortfolio\\public_html\\video\\"		
+            }
+
+            ],
+
+            "textHyperLinkerComponents":[{
+                "text_to_hyperLInker":"the first",
+                "hyper_linker": "http://www.marketwatch.com/story/how-katy-perry-roars-past-taylor-swift-financially-2015-11-06"	
+            },
+            {
+                "text_to_hyperLInker":"text",
+                "hyper_linker": "http://hipstertaylorswift.com/"	
+            }	
+            ],
+            "slideShowComponents":[
+            {
+                "title":"myFirstTest",
+                "slides":[
+                {
+                    "image_file_name":"ArchesUtah.jpg",
+                    "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\ePortfolio\\public_html\\img\\",
+                    "caption":"caption1"
+                },
+                {
+                    "image_file_name":"CarhengeNebraska.jpg",
+                    "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\ePortfolio\\public_html\\img\\",
+                    "caption":"caption2"
+                },
+                {
+                    "image_file_name":"DefaultStartSlide.png",
+                    "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\ePortfolio\\public_html\\img\\",
+                    "caption":"ENTER CAPTION"
+                }
+                ]
+            },
+            {
+                "title":"mySecondTest",
+                "slides":[
+                {
+                    "image_file_name":"banner3.jpg",
+                    "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\ePortfolio\\public_html\\img\\",
+                    "caption":"captionA"
+                },
+                {
+                    "image_file_name":"coffe_wine.jpg",
+                    "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\ePortfolio\\public_html\\img\\",
+                    "caption":"captionB"
+                },
+                {
+                    "image_file_name":"DefaultStartSlide.png",
+                    "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\ePortfolio\\public_html\\img\\",
+                    "caption":"ENTER CAPTION"
+                }
+                ]
+            }
+            ]
+
+
+        }
+    ,
+
+        {    
+            "layout_tempplate":"layout1",
+            "color_template":"color1",
+            "Banner_Image":"banner1.jpg",
+            "page_title":"my eportfolio",
+            "page_footer":"just do it",
+
+            "textComponents":[
+            {
+                "text_content":"this is the first text: Taylor Alison Swift (born December 13, 1989) is an American singer-songwriter and actress. Raised in Wyomissing, Pennsylvania",
+                "text_font":"Arial",
+                "text_font_size":"12px" ,
+                "hyperlinkers":[{
+                    "begin":12,
+                    "end":17,
+                    "textLink": "http://www.w3schools.com/json/json_eval.asp"			
+                },
+                {
+                    "begin":1,
+                    "end":4,
+                    "textLink": "http://www.w3schools.com/jsref/met_win_setinterval.asp"		
+
+                }	
+
+                ]
+            },
+
+            {
+                "text_content":"this is the second text: Swift is known for narrative songs about her personal experiences. As a songwriter, she has been honored by the Nashville Songwriters Association and the Songwriters Hall of Fame.",
+                "text_font":"Arial",
+                "text_font_size":"12px",			
+                "hyperlinkers":[{
+                    "begin":0,
+                    "end":4,
+                    "textLink": "http://www.npr.org/sections/krulwich/2014/05/25/315259156/a-young-woman-falls-in-love-with-everything"
+                },
+                {
+                    "begin":8,
+                    "end":12,
+                    "textLink": "http://spacetelescope.github.io/understanding-json-schema/reference/numeric.html"  
+                },
+                {
+
+                    "begin":17,
+                    "end":25,
+                    "textLink": "http://spacetelescope.github.io/understanding-json-schema/reference/numeric.html"  
+                }  
+                ]
+
+            }
+
+            ],
+
+            "imageComponents":[{
+                "image_file_name":"banner1.jpg",
+                "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\ePortfolio\\public_html\\img\\"	  
+            },
+            {
+                "image_file_name":"banner2.jpg",
+                "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\ePortfolio\\public_html\\img\\" 
+
+            }
+
+            ],
+
+            "videoComponents":[
+            {
+                "video_file_name":"myVideo1.mp4",
+                "video_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\ePortfolio\\public_html\\video\\" 
+            },
+            {
+                "video_file_name":"myVideo2.mp4",
+                "video_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\ePortfolio\\public_html\\video\\"		
+            }
+
+            ],
+
+            "textHyperLinkerComponents":[{
+                "text_to_hyperLInker":"the first",
+                "hyper_linker": "http://www.marketwatch.com/story/how-katy-perry-roars-past-taylor-swift-financially-2015-11-06"	
+            },
+            {
+                "text_to_hyperLInker":"text",
+                "hyper_linker": "http://hipstertaylorswift.com/"	
+            }	
+            ],
+            "slideShowComponents":[
+            {
+                "title":"myFirstTest",
+                "slides":[
+                {
+                    "image_file_name":"ArchesUtah.jpg",
+                    "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\ePortfolio\\public_html\\img\\",
+                    "caption":"caption1"
+                },
+                {
+                    "image_file_name":"CarhengeNebraska.jpg",
+                    "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\ePortfolio\\public_html\\img\\",
+                    "caption":"caption2"
+                },
+                {
+                    "image_file_name":"DefaultStartSlide.png",
+                    "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\ePortfolio\\public_html\\img\\",
+                    "caption":"ENTER CAPTION"
+                }
+                ]
+            },
+            {
+                "title":"mySecondTest",
+                "slides":[
+                {
+                    "image_file_name":"banner3.jpg",
+                    "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\ePortfolio\\public_html\\img\\",
+                    "caption":"captionA"
+                },
+                {
+                    "image_file_name":"coffe_wine.jpg",
+                    "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\ePortfolio\\public_html\\img\\",
+                    "caption":"captionB"
+                },
+                {
+                    "image_file_name":"DefaultStartSlide.png",
+                    "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\ePortfolio\\public_html\\img\\",
+                    "caption":"ENTER CAPTION"
+                }
+                ]
+            }
+            ]
+
+
+        }
+    ,
+
+        {    
+            "layout_tempplate":"layout1",
+            "color_template":"color1",
+            "Banner_Image":"banner1.jpg",
+            "page_title":"my eportfolio",
+            "page_footer":"just do it",
+
+            "textComponents":[
+            {
+                "text_content":"this is the first text: Taylor Alison Swift (born December 13, 1989) is an American singer-songwriter and actress. Raised in Wyomissing, Pennsylvania",
+                "text_font":"Arial",
+                "text_font_size":"12px" ,
+                "hyperlinkers":[{
+                    "begin":12,
+                    "end":17,
+                    "textLink": "http://www.w3schools.com/json/json_eval.asp"			
+                },
+                {
+                    "begin":1,
+                    "end":4,
+                    "textLink": "http://www.w3schools.com/jsref/met_win_setinterval.asp"		
+
+                }	
+
+                ]
+            },
+
+            {
+                "text_content":"this is the second text: Swift is known for narrative songs about her personal experiences. As a songwriter, she has been honored by the Nashville Songwriters Association and the Songwriters Hall of Fame.",
+                "text_font":"Arial",
+                "text_font_size":"12px",			
+                "hyperlinkers":[{
+                    "begin":0,
+                    "end":4,
+                    "textLink": "http://www.npr.org/sections/krulwich/2014/05/25/315259156/a-young-woman-falls-in-love-with-everything"
+                },
+                {
+                    "begin":8,
+                    "end":12,
+                    "textLink": "http://spacetelescope.github.io/understanding-json-schema/reference/numeric.html"  
+                },
+                {
+
+                    "begin":17,
+                    "end":25,
+                    "textLink": "http://spacetelescope.github.io/understanding-json-schema/reference/numeric.html"  
+                }  
+                ]
+
+            }
+
+            ],
+
+            "imageComponents":[
+
+            ],
+
+            "videoComponents":[
+            {
+                "video_file_name":"myVideo1.mp4",
+                "video_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\ePortfolio\\public_html\\video\\" 
+            },
+            {
+                "video_file_name":"myVideo2.mp4",
+                "video_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\ePortfolio\\public_html\\video\\"		
+            }
+
+            ],
+
+            "textHyperLinkerComponents":[{
+                "text_to_hyperLInker":"the first",
+                "hyper_linker": "http://www.marketwatch.com/story/how-katy-perry-roars-past-taylor-swift-financially-2015-11-06"	
+            },
+            {
+                "text_to_hyperLInker":"text",
+                "hyper_linker": "http://hipstertaylorswift.com/"	
+            }	
+            ],
+            "slideShowComponents":[
+            {
+                "title":"myFirstTest",
+                "slides":[
+                {
+                    "image_file_name":"ArchesUtah.jpg",
+                    "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\ePortfolio\\public_html\\img\\",
+                    "caption":"caption1"
+                },
+                {
+                    "image_file_name":"CarhengeNebraska.jpg",
+                    "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\ePortfolio\\public_html\\img\\",
+                    "caption":"caption2"
+                },
+                {
+                    "image_file_name":"DefaultStartSlide.png",
+                    "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\ePortfolio\\public_html\\img\\",
+                    "caption":"ENTER CAPTION"
+                }
+                ]
+            },
+            {
+                "title":"mySecondTest",
+                "slides":[
+                {
+                    "image_file_name":"banner3.jpg",
+                    "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\ePortfolio\\public_html\\img\\",
+                    "caption":"captionA"
+                },
+                {
+                    "image_file_name":"coffe_wine.jpg",
+                    "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\ePortfolio\\public_html\\img\\",
+                    "caption":"captionB"
+                },
+                {
+                    "image_file_name":"DefaultStartSlide.png",
+                    "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\ePortfolio\\public_html\\img\\",
+                    "caption":"ENTER CAPTION"
+                }
+                ]
+            }
+            ]
+
+
+        }
+    ,
+
+        {    
+            "layout_tempplate":"layout1",
+            "color_template":"color1",
+            "Banner_Image":"banner1.jpg",
+            "page_title":"my eportfolio",
+            "page_footer":"just do it",
+
+            "textComponents":[
+            {
+                "text_content":"this is the first text: Taylor Alison Swift (born December 13, 1989) is an American singer-songwriter and actress. Raised in Wyomissing, Pennsylvania",
+                "text_font":"Arial",
+                "text_font_size":"12px" ,
+                "hyperlinkers":[{
+                    "begin":12,
+                    "end":17,
+                    "textLink": "http://www.w3schools.com/json/json_eval.asp"			
+                },
+                {
+                    "begin":1,
+                    "end":4,
+                    "textLink": "http://www.w3schools.com/jsref/met_win_setinterval.asp"		
+
+                }	
+
+                ]
+            },
+
+            {
+                "text_content":"this is the second text: Swift is known for narrative songs about her personal experiences. As a songwriter, she has been honored by the Nashville Songwriters Association and the Songwriters Hall of Fame.",
+                "text_font":"Arial",
+                "text_font_size":"12px",			
+                "hyperlinkers":[{
+                    "begin":0,
+                    "end":4,
+                    "textLink": "http://www.npr.org/sections/krulwich/2014/05/25/315259156/a-young-woman-falls-in-love-with-everything"
+                },
+                {
+                    "begin":8,
+                    "end":12,
+                    "textLink": "http://spacetelescope.github.io/understanding-json-schema/reference/numeric.html"  
+                },
+                {
+
+                    "begin":17,
+                    "end":25,
+                    "textLink": "http://spacetelescope.github.io/understanding-json-schema/reference/numeric.html"  
+                }  
+                ]
+
+            }
+
+            ],
+
+            "imageComponents":[{
+                "image_file_name":"banner1.jpg",
+                "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\ePortfolio\\public_html\\img\\"	  
+            },
+            {
+                "image_file_name":"banner2.jpg",
+                "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\ePortfolio\\public_html\\img\\" 
+
+            }
+
+            ],
+
+            "videoComponents":[
+            {
+                "video_file_name":"myVideo1.mp4",
+                "video_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\ePortfolio\\public_html\\video\\" 
+            }
+
+            ],
+
+            "textHyperLinkerComponents":[{
+                "text_to_hyperLInker":"the first",
+                "hyper_linker": "http://www.marketwatch.com/story/how-katy-perry-roars-past-taylor-swift-financially-2015-11-06"	
+            },
+            {
+                "text_to_hyperLInker":"text",
+                "hyper_linker": "http://hipstertaylorswift.com/"	
+            }	
+            ],
+            "slideShowComponents":[
+            {
+                "title":"myFirstTest",
+                "slides":[
+                {
+                    "image_file_name":"ArchesUtah.jpg",
+                    "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\ePortfolio\\public_html\\img\\",
+                    "caption":"caption1"
+                },
+                {
+                    "image_file_name":"CarhengeNebraska.jpg",
+                    "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\ePortfolio\\public_html\\img\\",
+                    "caption":"caption2"
+                },
+                {
+                    "image_file_name":"DefaultStartSlide.png",
+                    "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\ePortfolio\\public_html\\img\\",
+                    "caption":"ENTER CAPTION"
+                }
+                ]
+            },
+            {
+                "title":"mySecondTest",
+                "slides":[
+                {
+                    "image_file_name":"banner3.jpg",
+                    "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\ePortfolio\\public_html\\img\\",
+                    "caption":"captionA"
+                },
+                {
+                    "image_file_name":"coffe_wine.jpg",
+                    "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\ePortfolio\\public_html\\img\\",
+                    "caption":"captionB"
+                },
+                {
+                    "image_file_name":"DefaultStartSlide.png",
+                    "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\ePortfolio\\public_html\\img\\",
+                    "caption":"ENTER CAPTION"
+                }
+                ]
+            }
+            ]
+
+
+        }
+    ]
+
+}

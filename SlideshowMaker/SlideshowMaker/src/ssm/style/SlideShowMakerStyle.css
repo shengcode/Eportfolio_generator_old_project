@@ -1,0 +1,80 @@
+.root{
+    
+    -fx-spacing:30;
+    -fx-background-color:yellow  
+    
+}
+.label{
+     -fx-font-family:"Arial";
+    -fx-font-size:20px;
+    -fx-font-style:italic;
+    -fx-font-weight:bold;
+    -fx-background-color:red;
+    
+}
+.button{    
+    -fx-font-family:"Arial";
+    -fx-font-size:20px;
+    -fx-font-style:italic;
+    -fx-font-weight:bold;
+    -fx-background-color:yellowgreen;
+    
+}
+.slide_show_edit_vbox {
+    -fx-background-radius: 5.0;
+    -fx-background-color: rgb(230, 50, 50);
+    -fx-border-color: rgb(50, 5, 5);
+    -fx-alignment:CENTER;
+    -fx-spacing:20;
+   
+}
+.language_vbox{ 
+     -fx-alignment:CENTER;    
+    
+}
+.slide_workspace{
+    
+    -fx-background-size: 1024, 768;
+}
+.SSpaneStyle{
+    
+    -fx-background-size: 1024, 768;
+}
+.slide_edit_view {
+    -fx-background-radius: 50.0;
+    -fx-background-color: rgb(90, 240, 90);
+    -fx-border-color: rgb(70, 5, 5);
+    -fx-border-thickness: 10px;
+    -fx-spacing: 60px;    
+    -fx-padding: 50;
+     
+}
+
+.vertical_toolbar_button {
+    -fx-background-color: rgb(250, 130, 130);
+    -fx-padding: 10px 10px 10px 10px;
+    -fx-spacing: 50px;    
+}
+
+.horizontal_toolbar_button {
+    -fx-padding-left: 10px;
+    -fx-padding-right: 20px;
+   
+}
+.text-field {
+    -fx-font-size: 12pt;
+    -fx-font-family: "Segoe UI Semibold";
+}
+.textfiled{
+     -fx-font-size: 12pt;
+    -fx-font-family: "Segoe UI Semibold";
+}
+
+.comboBox.listview{    
+   -fx-font-size : 20pt;
+  -fx-background: white;
+-fx-background-color: transparent;
+-fx-text-fill: -fx-text-base-color;
+-fx-padding: 3 0 2 7;
+-fx-cell-size: 1.66667em;     
+}

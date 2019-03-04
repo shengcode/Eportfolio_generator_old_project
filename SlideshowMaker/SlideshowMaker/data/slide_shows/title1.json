@@ -1,0 +1,21 @@
+
+{
+    "title":"title1",
+    "slides":[
+        {
+            "image_file_name":"DefaultStartSlide.png",
+            "image_path":"./images/slide_show_images/",
+            "caption":""
+        },
+        {
+            "image_file_name":"DefaultStartSlide.png",
+            "image_path":"./images/slide_show_images/",
+            "caption":"jjkkk"
+        },
+        {
+            "image_file_name":"DefaultStartSlide.png",
+            "image_path":"./images/slide_show_images/",
+            "caption":"ENTER CAPTION"
+        }
+    ]
+}

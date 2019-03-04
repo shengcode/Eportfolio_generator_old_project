@@ -1,0 +1,16 @@
+
+{
+    "title":"title1",
+    "slides":[
+        {
+            "image_file_name":"ArchesUtah.jpg",
+            "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\SlideshowMaker\\images\\slide_show_images\\",
+            "caption":"captionof"
+        },
+        {
+            "image_file_name":"CapeSpearNewfoundland.jpg",
+            "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\SlideshowMaker\\images\\slide_show_images\\",
+            "caption":"caption2"
+        }
+    ]
+}

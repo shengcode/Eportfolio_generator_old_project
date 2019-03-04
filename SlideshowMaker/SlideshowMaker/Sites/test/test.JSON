@@ -1,0 +1,16 @@
+
+{
+    "title":"test",
+    "slides":[
+        {
+            "image_file_name":"BadlandsSouthDakota.jpg",
+            "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\SlideshowMaker\\images\\slide_show_images\\",
+            "caption":"waht is tat"
+        },
+        {
+            "image_file_name":"CapeSpearNewfoundland.jpg",
+            "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\SlideshowMaker\\images\\slide_show_images\\",
+            "caption":"test caption2"
+        }
+    ]
+}

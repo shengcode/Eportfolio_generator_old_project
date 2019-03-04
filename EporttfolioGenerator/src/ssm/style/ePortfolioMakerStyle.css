@@ -1,0 +1,167 @@
+
+// TOOLBAR CONTROLS
+.horizontal_toolbar_pane, .vertical_toolbar_pane {
+    -fx-background-color: #A69800;    
+    -fx-padding:5;
+}
+
+.horizontal_toolbar_pane {
+    -fx-hgap:2;
+}
+
+.vertical_toolbar_pane {
+    -fx-alignment: center;
+    -fx-orientation: vertical;
+    -fx-vgap:20;
+}
+
+.vertical_toolbar_button {
+    -fx-background-color: #FFF373;
+    -fx-padding: 10px 10px 10px 10px;
+    -fx-spacing: 50px;
+}
+
+.horizontal_toolbar_button {
+    -fx-background-color: #FFF373;
+    -fx-padding-left: 10px;
+    -fx-padding-right: 20px;
+}
+
+
+.root{    
+    -fx-spacing:30;
+    -fx-background-color:white;  
+    
+}
+.label{
+     -fx-font-family:"Arial";
+    -fx-font-size:20px;
+    -fx-font-style:italic;
+    //-fx-font-weigh
+    -fx-background-color:none;
+    
+}
+
+.button{    
+    -fx-font-family:"Arial";
+    -fx-font-size:20px;
+    -fx-font-style:italic;
+    -fx-font-weight:bold;
+    -fx-background-color:lightyellow;
+    
+}
+.selected_slide_edit_view{
+     -fx-background-size:5000,5000;
+     -fx-background-color: red;
+     //-fx-border-effect:shadow;
+     -fx-border-color:red;
+    -fx-border-color: rgb(100, 0, 0);
+    -fx-border-thickness: 10px;
+    -fx-spacing: 60px;    
+    -fx-padding: 50;
+       
+    
+}
+.workspace_hbox{ 
+    
+    
+    
+}
+.scroll_pane{
+    -fx-background-size:5000,2000;
+}
+.slide_show_edit_vbox {
+    
+    -fx-background-radius: 5.0;
+    -fx-background-color: white;
+    -fx-border-color: rgb(50, 5, 5);
+    -fx-alignment:CENTER;
+    -fx-spacing:20;
+   
+}
+.language_vbox{ 
+     -fx-alignment:CENTER;    
+    
+}
+.slide_workspace{
+    
+    
+}
+.SSpaneStyle{
+    
+   -fx-background-size: 1024, 768;
+   //-fx-background-size: 5000, 5000;
+}
+.slide_edit_view {
+    -fx-background-size:5000,5000;
+     -fx-background-color: yellow;
+    -fx-border-color: rgb(70, 5, 5);
+    -fx-border-thickness: 10px;
+    -fx-spacing: 60px;    
+    -fx-padding: 50;
+     
+}
+.slide_two_edit_view{
+     -fx-background-size:5000,5000;
+     -fx-background-color: green;
+    -fx-border-color: rgb(70, 5, 5);
+    -fx-border-thickness: 10px;
+    -fx-spacing: 60px;    
+    -fx-padding: 50;
+    
+}
+.slide_three_edit_view{
+     -fx-background-size:5000,5000;
+     -fx-background-color: red;
+    -fx-border-color: rgb(70, 5, 5);
+    -fx-border-thickness: 10px;
+    -fx-spacing: 60px;    
+    -fx-padding: 50;
+    
+}
+.slide_four_edit_view{
+     -fx-background-size:5000,5000;
+     -fx-background-color: blue;
+    -fx-border-color: rgb(70, 5, 5);
+    -fx-border-thickness: 10px;
+    -fx-spacing: 60px;    
+    -fx-padding: 50;
+    
+}
+.slide_five_edit_view{
+     -fx-background-size:5000,5000;
+     -fx-background-color: white;
+    -fx-border-color: rgb(70, 5, 5);
+    -fx-border-thickness: 10px;
+    -fx-spacing: 60px;    
+    -fx-padding: 50;
+    
+}
+.vertical_toolbar_button {
+    -fx-background-color: rgb(250, 130, 130);
+    -fx-padding: 10px 10px 10px 10px;
+    -fx-spacing: 50px;    
+}
+
+.horizontal_toolbar_button {
+    -fx-padding-left: 10px;
+    -fx-padding-right: 20px;
+   
+}
+.text-field {
+    -fx-font-size: 12pt;
+    -fx-font-family: "Segoe UI Semibold";
+}
+.textfiled{
+     -fx-font-size: 12pt;
+    -fx-font-family: "Segoe UI Semibold";
+}
+
+.comboBox.listview{    
+   -fx-font-size : 20pt;
+  -fx-background: white;
+-fx-background-color: transparent;
+-fx-text-fill: -fx-text-base-color;
+-fx-padding: 3 0 2 7;
+-fx-cell-size: 1.66667em;     
+}

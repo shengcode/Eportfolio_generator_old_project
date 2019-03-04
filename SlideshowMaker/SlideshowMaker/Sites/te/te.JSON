@@ -1,0 +1,26 @@
+
+{
+    "title":"te",
+    "slides":[
+        {
+            "image_file_name":"BryceCanyonUtah.jpg",
+            "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\SlideshowMaker\\images\\slide_show_images\\",
+            "caption":"caption1"
+        },
+        {
+            "image_file_name":"CarhengeNebraska.jpg",
+            "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\SlideshowMaker\\images\\slide_show_images\\",
+            "caption":"jj"
+        },
+        {
+            "image_file_name":"CMS_Creative_164657191_Kingfisher.jpg",
+            "image_path":"C:\\Users\\shengchun\\Desktop\\",
+            "caption":"bbb"
+        },
+        {
+            "image_file_name":"images.jpg",
+            "image_path":"C:\\Users\\shengchun\\Desktop\\",
+            "caption":"ENTER CAPTION"
+        }
+    ]
+}

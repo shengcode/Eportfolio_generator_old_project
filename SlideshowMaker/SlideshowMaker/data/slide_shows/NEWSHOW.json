@@ -1,0 +1,16 @@
+
+{
+    "title":"NEWSHOW",
+    "slides":[
+        {
+            "image_file_name":"CapeSpearNewfoundland.jpg",
+            "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\SlideshowMaker\\images\\slide_show_images\\",
+            "caption":"C1"
+        },
+        {
+            "image_file_name":"BryceCanyonUtah.jpg",
+            "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\SlideshowMaker\\images\\slide_show_images\\",
+            "caption":"C2"
+        }
+    ]
+}

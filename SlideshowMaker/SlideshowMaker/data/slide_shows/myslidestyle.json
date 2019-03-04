@@ -1,0 +1,31 @@
+
+{
+    "title":"myslidestyle",
+    "slides":[
+        {
+            "image_file_name":"BadlandsSouthDakota.jpg",
+            "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\SlideshowMaker\\images\\slide_show_images\\",
+            "caption":"caption1"
+        },
+        {
+            "image_file_name":"CarhengeNebraska.jpg",
+            "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\SlideshowMaker\\images\\slide_show_images\\",
+            "caption":"caption2"
+        },
+        {
+            "image_file_name":"SaltUtah.jpg",
+            "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\SlideshowMaker\\images\\slide_show_images\\",
+            "caption":"caption3"
+        },
+        {
+            "image_file_name":"GreatPlainsNebraska.jpg",
+            "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\SlideshowMaker\\images\\slide_show_images\\",
+            "caption":"caption4"
+        },
+        {
+            "image_file_name":"BryceCanyonUtah.jpg",
+            "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\SlideshowMaker\\images\\slide_show_images\\",
+            "caption":"ENTER CAPTION"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+body{
+    font-family: 'Lobster', cursive;    
+}
+.nav{
+    
+    height:40px;
+    
+    }
+.nav > ul{
+    margin:0;
+    padding:0 20px 0 0;
+}
+.nav ul li{
+    list-style: none;
+    
+}
+.nav ul li a{
+    text-align: center;
+    text-decoration: none;
+    float:left;
+    padding: 10px 20px;
+   }
+   .banner{
+      
+       height:200px;
+   }
+   #bannerImg{
+       height:200px;
+       width:1000px;
+       float:left;
+   }
+   #videoComponent{
+       float:left;
+   }
+   #otherImage1{
+      float:right;        
+   }
+   #slideShowComponent{
+       float:right;
+   }
+   #paragraph{
+       font-size: 20px;
+   }
+   #paragraph1{
+       font-size: 24px;
+       
+   }

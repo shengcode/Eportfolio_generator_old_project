@@ -1,0 +1,21 @@
+
+{
+    "title":"tt",
+    "slides":[
+        {
+            "image_file_name":"DefaultStartSlide.png",
+            "image_path":"./images/slide_show_images/",
+            "caption":"ca"
+        },
+        {
+            "image_file_name":"DefaultStartSlide.png",
+            "image_path":"./images/slide_show_images/",
+            "caption":"cb"
+        },
+        {
+            "image_file_name":"DefaultStartSlide.png",
+            "image_path":"./images/slide_show_images/",
+            "caption":"cc"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+
+{
+    "title":"changetitle",
+    "slides":[
+        {
+            "image_file_name":"BryceCanyonUtah.jpg",
+            "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\SlideshowMaker\\images\\slide_show_images\\",
+            "caption":"a"
+        },
+        {
+            "image_file_name":"DefaultStartSlide.png",
+            "image_path":"./images/slide_show_images/",
+            "caption":"b"
+        }
+    ]
+}

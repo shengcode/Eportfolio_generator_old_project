@@ -1,0 +1,26 @@
+
+{
+    "title":"center it",
+    "slides":[
+        {
+            "image_file_name":"ArchesUtah.jpg",
+            "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\SlideshowMaker\\images\\slide_show_images\\",
+            "caption":"my caption1"
+        },
+        {
+            "image_file_name":"CapeSpearNewfoundland.jpg",
+            "image_path":"C:\\Users\\shengchun\\Documents\\NetBeansProjects\\SlideshowMaker\\SlideshowMaker\\images\\slide_show_images\\",
+            "caption":"my caption2"
+        },
+        {
+            "image_file_name":"DefaultStartSlide.png",
+            "image_path":"./images/slide_show_images/",
+            "caption":"ENTER CAPTION"
+        },
+        {
+            "image_file_name":"DefaultStartSlide.png",
+            "image_path":"./images/slide_show_images/",
+            "caption":"ENTER CAPTION"
+        }
+    ]
+}

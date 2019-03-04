@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    This XML file allows us to easily customize the look and language used
+    in our program's user interface. Note that this is for customizing settings
+    for the Course Schedule Builder interface, NOT the Web page that we're building. 
+-->
+<properties>
+    <property_list>    
+        <property name="TITLE_WINDOW"		value="幻灯片放映"></property>  
+         <!-- PROGRAM ICON FILES -->	
+        <!-- TOOLTIPS FOR BUTTONS -->
+        <property name="TOOLTIP_NEW_SLIDE_SHOW"	    value="建立一个新的幻灯片"></property>		
+        <property name="TOOLTIP_LOAD_SLIDE_SHOW"    value="上传一个已有的幻灯片"></property>		  
+        <property name="TOOLTIP_SAVE_SLIDE_SHOW"    value="保存这个幻灯片"></property>		 
+        <property name="TOOLTIP_VIEW_SLIDE_SHOW"    value="放映这个幻灯片"></property>		
+        <property name="TOOLTIP_EXIT"		    value="退出应用"></property>
+		<property name="TOOLTIP_ADD_SLIDE"	    value="添加一张幻灯片"></property>
+		<property name="TOOLTIP_REMOVE_SLIDE"	    value="移除一张幻灯片"></property>
+		<property name="TOOLTIP_MOVE_UP"	    value="把这张幻灯片上移"></property>
+		<property name="TOOLTIP_MOVE_DOWN"	    value="把这张幻灯片下移"></property>
+		<property name="TOOLTIP_PREVIOUS_SLIDE"	    value="前面那张幻灯片"></property>
+		<property name="TOOLTIP_NEXT_SLIDE"	    value="下一张幻灯片"></property>
+		<!-- DEFAULT VALUES -->
+	<property name="DEFAULT_IMAGE_CAPTION"	    value="输入图片名字"></property>
+	<property name="DEFAULT_SLIDE_SHOW_TITLE"   value="输入整个幻灯片的大标题"></property>
+	
+	
+		<!-- UI LABELS -->
+	<property name="LABEL_CAPTION"		    value="标题："></property>
+     <property name="LABEL_TITLE"		    value="幻灯片标题："></property>   
+	  <property name="NEXT_BUTTON"   value="下一张"></property>
+	   <property name="PREVIOUS_BUTTON"   value="上一张"></property>
+	   <property name="PROMPT_MESSAGE"   value="请输入标题"></property>
+	
+	<!-- ERROR MESSAGES-->
+	<property name="IMAGE_DOSE_NOT_EXISTS"   value="图片不存在"></property>	
+    <property name="ERROR_DATA_FILE"	    value="文件类型错误"></property>	
+	 <property name="INVALIDE_XML_FILE"   value="不合法的xmlfile"></property>	 
+	<property name="NOT_ABLE_TO_SAVE"	    value="不能保存"></property>	
+	<property name="SLIDE_FILE_CREATED"	    value="文件已经建立"></property>	
+	<property name="SLIDE_FILE_NOT_CREATED"   value="前一个幻灯片没有创立"></property>
+     <property name="NOT_ABLE_TO_LOAD_SLIDE"   value="不能加载幻灯片"></property>
+	 
+	 <property name="NOT_ABLE_TO_LOAD_OPEN"   value="不能打开幻灯片"></property>
+	  <property name="NOT_ABLE_TO_OPEN"   value="不能打开,错误文件"></property>
+	 
+	 
+	 <property name="NOT_ABLE_TO_SAVE_BEFORE_EXIT"   value="退出前不能保存好"></property>
+	<property name="YES_STRING"   value="是"></property>
+	 <property name="NO_STRING"   value="否"></property> 
+       <property name="CANCEL_STRING"   value="取消"></property>
+	   <property name="ERROR_DATA_FILE"   value="错误文件"></property>
+	   <property name="SAVE_CONFIRMATION"   value="用户确定界面"></property>
+		<property name="WANT_TO_SAVE"   value="你想保存文件吗？"></property>
+		<property name="CHOOSE_SAVE"   value="做出你的选择："></property>
+	    <property name="FILE_NOT_SAVED"   value="文件未保存"></property>
+	     
+		 <property name="NOT_A_IMAGE"   value="图片没有上传"></property>
+		 <property name="NOT_A_IMAGE_NOTICE"   value="图片没有上传成功"></property>
+	
+	 
+          
+    </property_list>
+    <property_options_list>
+    </property_options_list>
+</properties>

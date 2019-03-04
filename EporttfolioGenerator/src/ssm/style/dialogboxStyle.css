@@ -1,0 +1,58 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 25, 2015, 1:53:34 PM
+    Author     : shengchun
+*/
+
+// FIRST, ALL OUR TEXTUAL COMPONENTS WILL USE THE SAME FONT FAMILY
+.lang_prompt, .lang_combo_box, .lang_ok_button,
+.title_prompt, .title_text_field,
+.caption_prompt, .caption_text_field,
+.gridpane,.text_field{
+    -fx-font-family:sans-serif;    
+}
+.root{    
+    -fx-spacing:30;
+    -fx-background-color:white;  
+    -fx-background-width: 10;
+   -fx-background-height:10;
+    
+}
+// label
+.lang_prompt {
+    -fx-font-size: 16pt;
+    -fx-font-weight: bold;
+}
+
+.lang_combo_box {
+    -fx-font-size: 14pt;
+    -fx-background-color: #A69800;
+}
+
+.lang_ok_button {
+    -fx-font-size: 14pt;
+    -fx-background-color: #A69800;
+    -fx-border-radius: 4 4 4 4;
+    -fx-spacing: 50px;
+}
+//button box stype and Vbox
+.lang_dialog_pane {
+    -fx-background-color: #e2ff73;
+    -fx-hgap:500;
+    -fx-vgap:30;
+    -fx-padding: 30;
+    -fx-alignment:CENTER
+    
+}
+.gridpane{
+    
+}
+.text_field{
+     -fx-font-family:sans-serif;  
+    -fx-font-size: 14pt;
+    -fx-alignment:CENTER;
+}

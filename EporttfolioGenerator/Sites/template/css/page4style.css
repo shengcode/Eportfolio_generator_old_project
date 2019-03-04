@@ -1,0 +1,33 @@
+
+#paragraph{
+    background-color: grey;
+}
+
+.banner{
+    
+    background-color: blue;
+    border-color:red;
+    border-width:0px 0px 5px 0px;     
+      text-emphasis-color: red;
+}
+#container{
+      background-color: #000;
+    
+}
+.nav{
+     background:#a7e0ee;
+}
+
+
+.nav ul li a{
+      color:red;
+}
+.nav ul li a:hover{
+    color: white;
+}
+#class
+{
+    background-color: red;
+    
+   
+}

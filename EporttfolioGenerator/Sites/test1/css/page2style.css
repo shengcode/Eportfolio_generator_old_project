@@ -1,0 +1,17 @@
+body{
+    font-family: 'Short Stack', cursive;
+    background-color: green;
+}
+.nav{
+  background-color: white;
+  color:#ffffff;   
+  
+    
+}
+.nav>li{
+     font-size:20px;
+     text-align: right;
+}
+.nav>li>a{
+    color:red;
+}
